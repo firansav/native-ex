@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Native Example</string>
+    <string name="textview_instruction">Pass Your Name to JNI</string>
+    <string name="return_string_array">Return String Array</string>
+</resources>
